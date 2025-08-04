@@ -4,6 +4,11 @@ Detecting fraudulent credit card transactions using machine learning to ensure f
 
 ---
 
+<p align="center">
+  <img src="credict.png" width="450" alt="Credict Card Fraud  Logo" />
+</p>
+
+
 ##  Project Overview
 
 This project aims to detect fraudulent credit card transactions using advanced machine learning algorithms. It leverages real-world anonymized data to build and evaluate a classification model capable of identifying potentially fraudulent activity with high accuracy.
