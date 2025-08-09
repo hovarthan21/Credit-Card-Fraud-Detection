@@ -15,6 +15,11 @@ This project aims to detect fraudulent credit card transactions using advanced m
 
 ---
 
+## Streamlit Cloud
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-card-fraud-detection-fq4n6w3kopnhcfbjtjhar5.streamlit.app/)
+
+
 ##  Features
 
 - ✅ Supervised machine learning classification
